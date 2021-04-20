@@ -16,9 +16,9 @@ npm run build
 
 
 ```
-Small Project Coming soon page for the website Sinink
+Small Project Coming soon page for the website Sininko
 
 Thank to Bruno Simon via Three Journey
 # ComingSoonSininko
 
-Demo here: https://codesandbox.io/s/angry-rhodes-3pls2
+Demo here: https://3pls2.sse.codesandbox.io/
